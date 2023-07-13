@@ -50,3 +50,10 @@ rsconnect/
 
 # pycharm idea folder
 .idea/
+
+# ds store files
+.DS_Store
+
+# ipynb checkopoints
+.ipynb_checkpoints/
+**/*.ipynb_checkpoints/

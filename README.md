@@ -1,2 +1,6 @@
 # imperial-honeybee-research
-establishing the influence on honeybee diet, physical stress and RNAi gene silencing on Nosema.spp infection in the European Honeybee (Apis melifera)
+establishing the influence on honeybee diet, physical stress and RNAi gene silencing on _Nosema.spp_ infection in the European Honeybee (_Apis melifera_)
+
+## Abstract 
+
+Declines in the European honey bee (_Apis mellifera_) due to the microsporidian parasites _Nosema apis_ and _Nosema ceranae_ threaten global pollination services. Successful control of _Nosema spp._ will require collaboration between the scientific and beekeeping communities, and more advanced understanding of parasite-host dynamics. Therefore, this study presents the results of a survey to examine how _Nosema spp_. is perceived as a threat in the beekeeping community, as well as laboratory-based infection assays to reveal how infection of A. mellifera by _Nosema spp_. is influenced by physical stress, diet, and the silencing of the Imd immune signalling pathway. It is found that both US and UK beekeepers do not consider _Nosema spp_. a major threat to the health of their hives, and that physical stress and diet of A. mellifera may exacerbate _Nosema spp_. lethality and infection intensity. However, the Imd pathway is not found to strongly influence the _A. mellifera_ immune response to _Nosema spp._. These findings will help guide the development of new management practices for A. mellifera pathogens, ultimately contributing to safeguarding food security.
