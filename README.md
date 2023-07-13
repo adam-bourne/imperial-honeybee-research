@@ -1,5 +1,5 @@
 # imperial-honeybee-research
-establishing the influence on honeybee diet, physical stress and RNAi gene silencing on _Nosema.spp_ infection in the European Honeybee (_Apis melifera_)
+Establishing the influence on honeybee diet, physical stress and RNAi gene silencing on _Nosema.spp_ infection in the European Honeybee (_Apis melifera_)
 
 ## Abstract 
 
