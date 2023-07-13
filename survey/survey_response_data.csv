@@ -1,0 +1,332 @@
+﻿StartDate,Country,HiveNumber,Experience,Training,Threat_rank-CC,Threat_rank-Nosema,Threat_rank-Other.disease.or.pest,Threat_rank-Flowerdecline,Threat_rank-Pesticides,Threat_rank-LandUseChannge,Threat_rank-AsianHornet,Threat_rank-Varroa,If/WhenPollen,PollenWeeks,HowMuchPollen,If/WhenSugar,SugarWeeks,HowMuchSugar,Pest_rank-Nosema,Pest_rank-Varroa,Pest-rank-Foulbrood,Pest_rank-DWV,Pest_rank-Chalkbrood,Pest_rank-SHB,Colonyloss5
+5/15/20 9:07,Germany,2,Less than 1,General hive management,1,6,5,3,,2,7,4,I don't supplement pollen,,,"Autumn,Winter",2+ to 4,501-1000g,3,7,4,3,3,,
+5/15/20 11:53,USA,7,Between 1 and 3,I haven't used educational programmes,7,3,2,5,,4,6,1,I don't supplement pollen,,,Winter,8+ to 10,251-500g,4,10,5,7,5,,30
+5/15/20 13:08,Germany,14,Between 5 and 10,I haven't used educational programmes,5,6,2,3,,4,7,1,I don't supplement pollen,,,Autumn,0 to 2,1500g+,1,8,3,5,5,,10
+5/15/20 13:41,USA,2,Between 3 and 5,"Disease management,Making a business of beekeeping,Queen rearing,General hive management",5,6,2,4,,3,7,1,I don't supplement pollen,,,Winter,6+ to 8,0-250g,4,9,8,8,4,,22
+5/15/20 14:01,Canada,3,Between 5 and 10,"Disease management,Chemical treatments,General hive management,Other",3,7,4,5,,2,6,1,I don't supplement pollen,,,Autumn,2+ to 4,251-500g,1,5,1,1,4,,40
+5/15/20 15:18,USA,3,Between 1 and 3,"Making a business of beekeeping,Food supplementation,Queen rearing,General hive management",5,7,2,4,,6,3,1,I don't supplement pollen,,,"Autumn,Winter,Spring",8+ to 10,501-1000g,3,9,4,3,4,,100
+5/15/20 15:34,USA,2,Less than 1,General hive management,4,5,3,6,,1,7,2,I don't supplement pollen,,,I don't supplement sugars/candy,,,1,4,2,1,1,,0
+5/15/20 15:55,Australia,4,Between 3 and 5,I haven't used educational programmes,3,5,4,2,,1,7,6,I don't supplement pollen,,,I don't supplement sugars/candy,,,2,0,10,0,5,,20
+5/15/20 16:14,USA,16,Between 10 and 15,Other,7,4,2,1,,3,6,5,"Autumn,Spring,Summer",0 to 2,0-250g,Winter,12+,0-250g,1,1,1,1,1,,30
+5/15/20 18:04,USA,18,15+,"Disease management,Chemical treatments,Food supplementation,Queen rearing,General hive management,Other",7,5,2,3,,4,6,1,"Autumn,Summer",10+ to 12,0-250g,Autumn,6+ to 8,251-500g,2,10,5,4,3,,30
+5/15/20 19:53,USA,11,Between 3 and 5,"Disease management,Queen rearing,General hive management,Other",7,6,1,3,,2,5,4,I don't supplement pollen,,,Spring,4+ to 6,0-250g,0,3,2,3,1,,20
+5/16/20 6:20,USA,3,Between 1 and 3,I haven't used educational programmes,4,5,3,6,2,7,8,1,I don't supplement pollen,,,"Autumn,Spring",0 to 2,1500g+,1,8,4,8,3,6,0
+5/16/20 17:45,Australia,400,Between 10 and 15,"Queen rearing,General hive management",3,5,4,2,6,7,8,1,I don't supplement pollen,,,I don't supplement sugars/candy,,,3,10,8,0,5,3,5
+5/16/20 18:51,USA,10,15+,"Disease management,Queen rearing,General hive management",8,6,2,4,5,3,7,1,I don't supplement pollen,,,"Autumn,Winter",6+ to 8,1500g+,4,9,4,6,0,0,30
+5/17/20 1:34,UK,40,Between 3 and 5,I haven't used educational programmes,4,6,8,2,5,1,7,3,I don't supplement pollen,,,"Autumn,Winter",6+ to 8,501-1000g,2,7,1,4,1,0,13
+5/17/20 1:47,UK,2,Between 3 and 5,"Disease management,Chemical treatments,Food supplementation,General hive management",5,4,6,2,7,3,8,1,Spring,2+ to 4,251-500g,Autumn,2+ to 4,1500g+,6,10,7,5,5,2,0
+5/17/20 2:25,UK,4,Between 3 and 5,Disease management,5,3,2,7,4,6,8,1,I don't supplement pollen,,,Winter,2+ to 4,0-250g,3,8,2,3,3,1,0
+5/17/20 2:44,UK,12,Between 5 and 10,General hive management,2,6,7,1,3,8,4,5,I don't supplement pollen,,,Autumn,8+ to 10,501-1000g,4,5,9,5,2,2,5
+5/17/20 2:47,UK,50,Between 10 and 15,Other,1,4,5,6,8,3,7,2,I don't supplement pollen,,,Autumn,2+ to 4,1500g+,3,8,2,5,1,0,12
+5/17/20 2:53,UK,3,Between 1 and 3,I haven't used educational programmes,4,5,6,7,1,8,2,3,I don't supplement pollen,,,Autumn,4+ to 6,0-250g,2,10,3,7,1,9,0
+5/17/20 4:05,UK,5,Between 10 and 15,I haven't used educational programmes,8,4,2,5,1,6,7,3,I don't supplement pollen,,,"Autumn,Winter",10+ to 12,251-500g,5,4,9,7,5,0,1
+5/17/20 4:16,Portugal,40,Between 1 and 3,General hive management,5,8,3,4,6,7,1,2,"Autumn,Winter,Summer",2+ to 4,1000g+,Winter,4+ to 6,501-1000g,1,6,1,6,1,1,50
+5/17/20 5:14,UK,5,Between 5 and 10,"Disease management,General hive management",2,3,4,7,6,8,5,1,Winter,8+ to 10,0-250g,"Autumn,Winter,Spring",12+,501-1000g,5,8,3,7,7,2,51
+5/17/20 6:41,UK,26,15+,Disease management,8,5,2,3,7,4,6,1,I don't supplement pollen,,,"Autumn,Winter,Spring",2+ to 4,1500g+,3,7,3,3,2,0,8
+5/17/20 8:43,UK,14,Between 1 and 3,"Disease management,Chemical treatments,Queen rearing,General hive management",8,7,1,4,2,5,6,3,I don't supplement pollen,,,I don't supplement sugars/candy,,,1,8,7,8,1,7,10
+5/17/20 9:01,UK,1,Between 5 and 10,Queen rearing,5,2,3,7,6,8,4,1,I don't supplement pollen,,,"Autumn,Winter",4+ to 6,501-1000g,5,9,5,5,3,5,41
+5/17/20 12:54,UK,110,15+,"Disease management,Making a business of beekeeping",8,6,4,2,7,5,3,1,Spring,4+ to 6,251-500g,"Autumn,Winter",4+ to 6,1500g+,3,9,2,5,3,1,14
+5/17/20 13:20,UK,8,Between 1 and 3,"Disease management,Chemical treatments,Food supplementation,Queen rearing,General hive management",8,6,3,4,5,7,2,1,I don't supplement pollen,,,"Autumn,Winter,Spring",12+,501-1000g,2,9,10,9,2,10,0
+5/17/20 13:44,UK,3,Between 1 and 3,I haven't used educational programmes,8,3,1,5,4,6,7,2,I don't supplement pollen,,,Autumn,4+ to 6,1500g+,7,10,7,9,7,2,0
+5/17/20 13:40,UK,30,Between 10 and 15,"Disease management,Chemical treatments,Making a business of beekeeping,Queen rearing,General hive management,Other",3,7,6,1,5,4,8,2,Spring,0 to 2,0-250g,"Autumn,Winter,Summer,Spring",,,3,10,5,10,6,0,3
+5/17/20 14:23,UK,15,Between 1 and 3,"Disease management,Chemical treatments,General hive management",7,3,2,4,5,8,6,1,Spring,2+ to 4,251-500g,"Autumn,Winter,Summer,Spring",2+ to 4,1500g+,5,8,8,4,3,0,5
+5/17/20 14:16,UK,20,15+,I haven't used educational programmes,5,2,1,6,4,3,8,7,I don't supplement pollen,,,"Autumn,Winter",2+ to 4,0-250g,1,5,10,10,5,5,10
+5/17/20 14:33,UK,10,Between 5 and 10,I haven't used educational programmes,7,5,2,3,6,8,4,1,I don't supplement pollen,,,"Autumn,Summer,Spring",2+ to 4,1500g+,3,10,7,7,1,0,5
+5/17/20 15:18,UK,4,Between 10 and 15,I haven't used educational programmes,4,7,3,1,8,2,5,6,I don't supplement pollen,,,"Autumn,Winter",4+ to 6,1001-1500g,2,5,7,6,2,0,5
+5/18/20 2:06,UK,30,Between 5 and 10,"Disease management,General hive management",8,3,2,4,6,5,7,1,I don't supplement pollen,,,Autumn,2+ to 4,1500g+,5,10,10,9,5,0,22
+5/18/20 4:37,UK,50,15+,"Disease management,Chemical treatments",7,3,4,1,8,5,6,2,I don't supplement pollen,,,"Autumn,Winter,Spring",10+ to 12,1500g+,8,9,10,6,4,0,7
+5/18/20 13:41,USA,3,15+,General hive management,3,5,4,6,2,7,8,1,Spring,2+ to 4,0-250g,"Autumn,Winter,Spring",12+,501-1000g,2,10,3,8,3,0,80
+5/21/20 21:37,USA,1,Less than 1,I haven't used educational programmes,5,7,6,2,1,4,8,3,I don't supplement pollen,,,"Autumn,Spring",2+ to 4,0-250g,4,6,3,3,3,3,
+5/28/20 2:15,UK,4,Between 3 and 5,I haven't used educational programmes,4,2,5,6,3,8,7,1,I don't supplement pollen,,,Autumn,0 to 2,0-250g,7,8,4,5,5,3,6
+5/28/20 2:15,UK,2,Between 3 and 5,I haven't used educational programmes,8,6,2,5,3,7,4,1,Winter,4+ to 6,501-1000g,Winter,4+ to 6,1500g+,6,10,8,9,8,1,25
+5/28/20 2:14,UK,30,15+,"Disease management,Chemical treatments,Queen rearing,General hive management,Other",5,7,3,8,1,6,2,4,I don't supplement pollen,,,Winter,2+ to 4,251-500g,5,8,10,6,3,10,0
+5/28/20 2:16,UK,4,15+,I haven't used educational programmes,5,7,6,2,4,3,8,1,I don't supplement pollen,,,"Autumn,Winter",2+ to 4,1500g+,2,7,4,3,7,3,25
+5/28/20 2:17,UK,2,Between 1 and 3,"Disease management,General hive management",1,8,5,3,6,7,4,2,I don't supplement pollen,,,Winter,2+ to 4,501-1000g,3,5,2,5,2,1,0
+5/28/20 2:20,UK,5,15+,"Disease management,Chemical treatments,Queen rearing,General hive management,Other",8,5,3,1,4,7,6,2,I don't supplement pollen,,,Autumn,2+ to 4,1500g+,3,3,3,3,1,0,0
+5/28/20 2:22,UK,4,Between 1 and 3,General hive management,5,4,3,6,1,7,8,2,I don't supplement pollen,,,"Autumn,Spring",10+ to 12,251-500g,3,6,2,4,4,1,20
+5/28/20 2:21,UK,6,Between 5 and 10,Other,6,3,4,7,1,8,5,2,I don't supplement pollen,,,"Autumn,Winter,Spring",4+ to 6,1001-1500g,7,8,9,7,6,6,25
+5/28/20 2:20,UK,2,Between 1 and 3,"Disease management,Chemical treatments,Food supplementation,General hive management",3,6,8,5,4,7,1,2,I don't supplement pollen,,,"Autumn,Winter,Spring",2+ to 4,501-1000g,5,10,10,10,7,5,
+5/28/20 2:15,UK,3,Between 3 and 5,General hive management,4,7,5,6,3,1,8,2,"Autumn,Winter",0 to 2,0-250g,"Autumn,Winter",4+ to 6,1500g+,4,10,10,10,10,10,53
+5/28/20 2:28,UK,2,Between 1 and 3,General hive management,2,4,1,3,6,7,5,8,I don't supplement pollen,,,Winter,6+ to 8,501-1000g,1,4,0,1,2,0,50
+5/28/20 2:24,UK,6,Between 1 and 3,General hive management,2,7,5,3,4,6,1,8,I don't supplement pollen,,,"Autumn,Winter",8+ to 10,0-250g,6,1,9,3,0,0,0
+5/28/20 2:26,UK,5,Between 5 and 10,"Disease management,Food supplementation,General hive management",8,4,2,5,1,6,3,7,I don't supplement pollen,,,I don't supplement sugars/candy,,,5,2,6,2,4,5,26
+5/28/20 2:31,UK,15,Between 5 and 10,"Disease management,Chemical treatments,Food supplementation,Queen rearing,General hive management,Other",4,6,2,5,7,8,1,3,I don't supplement pollen,,,"Autumn,Winter",8+ to 10,501-1000g,5,8,6,7,3,0,5
+5/28/20 2:44,UK,29,Between 5 and 10,I haven't used educational programmes,5,3,4,7,2,8,6,1,I don't supplement pollen,,,I don't supplement sugars/candy,,,6,9,7,8,2,2,10
+5/28/20 2:50,UK,7,Between 3 and 5,"Disease management,General hive management",1,5,6,2,3,8,7,4,Spring,2+ to 4,251-500g,"Winter,Summer,Spring",4+ to 6,501-1000g,5,5,10,7,5,0,0
+5/28/20 2:30,UK,2,Between 3 and 5,"Disease management,Chemical treatments,Food supplementation,General hive management,Other",5,4,2,7,3,8,6,1,I don't supplement pollen,,,"Autumn,Winter,Spring",4+ to 6,251-500g,3,7,6,6,3,1,0
+5/28/20 2:55,UK,25,Between 1 and 3,I haven't used educational programmes,6,7,8,5,1,2,4,3,"Winter,Spring",2+ to 4,0-250g,"Winter,Spring",8+ to 10,1500g+,4,7,2,4,4,2,10
+5/28/20 2:57,UK,3,Between 3 and 5,I haven't used educational programmes,2,7,6,4,3,5,8,1,I don't supplement pollen,,,Autumn,0 to 2,1500g+,2,10,2,8,5,0,5
+5/28/20 2:53,UK,5,Between 10 and 15,Other,6,2,3,4,8,7,5,1,I don't supplement pollen,,,Winter,0 to 2,0-250g,3,9,3,4,3,1,20
+5/28/20 2:50,UK,9,Between 3 and 5,"Disease management,Chemical treatments,Queen rearing,General hive management",8,5,4,7,1,6,2,3,"Autumn,Spring",2+ to 4,0-250g,"Autumn,Spring",2+ to 4,251-500g,3,4,3,2,2,1,20
+5/28/20 3:08,UK,5,Between 5 and 10,"Queen rearing,General hive management",2,6,5,3,4,7,8,1,I don't supplement pollen,,,I don't supplement sugars/candy,,,1,8,6,6,6,3,5
+5/28/20 3:09,UK,10,Between 10 and 15,"Disease management,Chemical treatments,General hive management",1,6,7,3,2,4,8,5,I don't supplement pollen,,,"Autumn,Winter",6+ to 8,251-500g,2,8,1,8,1,0,10
+5/28/20 3:13,UK,3,15+,I haven't used educational programmes,2,5,6,7,3,8,4,1,I don't supplement pollen,,,Autumn,4+ to 6,1500g+,2,10,7,8,5,5,10
+5/28/20 3:26,UK,7,Between 10 and 15,"Disease management,Queen rearing,General hive management",7,2,4,5,6,8,3,1,Spring,2+ to 4,0-250g,"Autumn,Winter,Summer",8+ to 10,501-1000g,6,8,10,8,4,0,10
+5/28/20 3:32,UK,3,Between 1 and 3,"Disease management,Food supplementation,General hive management",3,8,4,7,2,1,6,5,I don't supplement pollen,,,"Winter,Spring",4+ to 6,0-250g,3,7,2,6,7,3,1
+5/28/20 3:34,UK,1,15+,I haven't used educational programmes,3,6,5,8,2,1,7,4,I don't supplement pollen,,,"Autumn,Spring",2+ to 4,0-250g,5,5,3,3,3,3,20
+5/28/20 3:44,UK,9,Between 1 and 3,"Disease management,Chemical treatments,Queen rearing,General hive management",5,3,1,6,4,8,7,2,Spring,2+ to 4,0-250g,"Autumn,Winter",12+,251-500g,3,8,10,6,3,1,10
+5/28/20 3:45,UK,6,Between 3 and 5,General hive management,6,7,4,8,1,2,5,3,Winter,0 to 2,501-1000g,"Autumn,Winter",0 to 2,501-1000g,2,5,3,6,5,2,0
+5/28/20 2:53,UK,1,Between 3 and 5,General hive management,5,7,6,2,3,4,8,1,"Winter,Spring",10+ to 12,251-500g,"Autumn,Winter,Summer",12+,251-500g,4,10,5,8,4,0,25
+5/28/20 3:50,UK,12,Between 3 and 5,"I haven't used educational programmes,Disease management,Chemical treatments,Queen rearing,General hive management",6,3,1,5,7,8,2,4,Spring,4+ to 6,0-250g,"Autumn,Spring",4+ to 6,251-500g,9,7,10,8,8,7,20
+5/28/20 2:23,UK,10,Between 3 and 5,I haven't used educational programmes,2,4,5,3,6,7,8,1,I don't supplement pollen,,,"Winter,Spring",4+ to 6,1001-1500g,1,8,2,6,2,2,10
+5/28/20 4:02,UK,3,Between 1 and 3,"Disease management,Chemical treatments,General hive management",6,5,2,3,4,7,8,1,I don't supplement pollen,,,Winter,8+ to 10,0-250g,7,9,7,6,4,3,25
+5/28/20 4:08,UK,7,Between 3 and 5,Disease management,2,4,7,3,1,8,6,5,I don't supplement pollen,,,"Autumn,Spring",2+ to 4,1001-1500g,5,6,3,3,6,2,15
+5/28/20 3:24,UK,400,15+,I haven't used educational programmes,8,6,4,2,7,1,3,5,I don't supplement pollen,,,"Autumn,Spring",0 to 2,1500g+,2,2,2,2,1,0,14
+5/28/20 4:55,UK,7,Between 1 and 3,General hive management,2,5,4,3,1,6,8,7,I don't supplement pollen,,,Winter,4+ to 6,501-1000g,1,5,5,5,5,2,0
+5/28/20 5:07,UK,4,Between 3 and 5,General hive management,1,4,8,7,3,6,2,5,I don't supplement pollen,,,Autumn,10+ to 12,501-1000g,4,6,5,5,3,3,33
+5/28/20 5:12,UK,3,Between 3 and 5,General hive management,3,8,7,2,1,4,6,5,I don't supplement pollen,,,"Autumn,Winter",4+ to 6,251-500g,6,5,10,9,7,5,50
+5/28/20 5:15,UK,6,Between 5 and 10,"Disease management,Queen rearing,General hive management",3,4,6,7,5,8,2,1,I don't supplement pollen,,,"Autumn,Winter",2+ to 4,251-500g,6,8,6,8,4,4,5
+5/28/20 5:25,UK,10,Between 5 and 10,"Disease management,Queen rearing,General hive management,Other",1,4,3,5,7,8,2,6,I don't supplement pollen,,,Winter,2+ to 4,251-500g,5,5,3,2,1,3,15
+5/28/20 5:47,UK,25,15+,"Queen rearing,General hive management,Other",7,5,3,6,1,8,4,2,Autumn,2+ to 4,0-250g,Winter,2+ to 4,501-1000g,3,6,2,3,2,1,9
+5/28/20 5:49,UK,10,Between 5 and 10,Other,6,7,5,2,1,3,8,4,Spring,2+ to 4,251-500g,Winter,2+ to 4,1001-1500g,2,3,6,3,1,0,5
+5/28/20 5:53,UK,2,Between 5 and 10,I haven't used educational programmes,1,6,7,4,3,8,5,2,I don't supplement pollen,,,"Winter,Spring",4+ to 6,0-250g,5,9,5,7,6,5,50
+5/28/20 6:01,UK,30,Between 10 and 15,"Disease management,Chemical treatments,Making a business of beekeeping,Food supplementation,General hive management",2,7,6,4,3,5,8,1,I don't supplement pollen,,,"Autumn,Winter",12+,251-500g,2,9,9,9,4,0,25
+5/28/20 5:59,UK,9,15+,"Disease management,Queen rearing,General hive management,Other",7,2,3,4,5,6,8,1,Spring,2+ to 4,0-250g,Autumn,2+ to 4,501-1000g,3,7,1,7,1,0,10
+5/28/20 6:12,UK,3,Between 5 and 10,I haven't used educational programmes,1,6,8,4,5,7,2,3,I don't supplement pollen,,,Autumn,4+ to 6,1001-1500g,3,8,2,6,2,2,50
+5/28/20 6:17,UK,3,Between 3 and 5,"Chemical treatments,Food supplementation,General hive management",3,6,5,2,4,7,8,1,Spring,4+ to 6,501-1000g,"Autumn,Summer,Spring",8+ to 10,501-1000g,7,9,5,5,5,2,20
+5/28/20 6:26,UK,4,Between 5 and 10,"Disease management,Chemical treatments,Queen rearing,General hive management",3,7,4,8,2,1,5,6,Spring,0 to 2,0-250g,"Autumn,Winter,Spring",2+ to 4,1001-1500g,2,4,1,3,0,1,20
+5/28/20 6:24,UK,12,Between 10 and 15,"Disease management,Chemical treatments,Queen rearing,General hive management,Other",4,7,2,3,5,6,8,1,I don't supplement pollen,,,"Autumn,Winter",6+ to 8,1500g+,3,10,4,7,5,0,15
+5/28/20 6:33,UK,2,Between 1 and 3,I haven't used educational programmes,4,5,6,3,1,2,7,8,I don't supplement pollen,,,Winter,8+ to 10,251-500g,3,5,5,5,5,5,0
+5/28/20 6:34,UK,2,Between 1 and 3,General hive management,4,5,7,8,2,6,3,1,I don't supplement pollen,,,Autumn,0 to 2,501-1000g,3,7,10,7,2,0,0
+5/28/20 6:21,UK,20,15+,Other,5,3,4,6,7,8,1,2,I don't supplement pollen,,,Autumn,0 to 2,1500g+,9,9,7,3,5,8,5
+5/28/20 6:34,UK,2,Between 3 and 5,General hive management,5,2,3,8,4,7,6,1,I don't supplement pollen,,,"Autumn,Winter,Spring",2+ to 4,251-500g,5,8,2,2,2,2,2
+5/28/20 6:44,UK,3,Between 5 and 10,"I haven't used educational programmes,Disease management,Chemical treatments,Food supplementation,Queen rearing,General hive management",6,7,3,2,4,5,8,1,Winter,2+ to 4,0-250g,Autumn,4+ to 6,251-500g,3,8,5,7,5,1,30
+5/28/20 6:49,UK,2,Between 1 and 3,"Queen rearing,General hive management",8,3,4,5,7,6,1,2,I don't supplement pollen,,,Winter,8+ to 10,251-500g,4,9,2,2,2,2,40
+5/28/20 6:41,UK,22,Between 10 and 15,General hive management,6,7,8,2,1,4,3,5,I don't supplement pollen,,,"Autumn,Winter",2+ to 4,501-1000g,5,3,2,5,1,1,20
+5/28/20 6:51,UK,8,Between 10 and 15,I haven't used educational programmes,3,8,5,6,1,2,7,4,Winter,8+ to 10,501-1000g,Winter,6+ to 8,501-1000g,1,4,0,1,1,0,1
+5/28/20 6:46,UK,2,Between 1 and 3,"Chemical treatments,Food supplementation,General hive management",2,7,8,5,4,6,3,1,Winter,8+ to 10,0-250g,Winter,8+ to 10,251-500g,5,9,10,8,5,0,0
+5/28/20 7:10,UK,3,Between 1 and 3,"Disease management,Food supplementation,General hive management",1,7,6,3,4,5,2,8,I don't supplement pollen,,,"Autumn,Winter,Spring",2+ to 4,501-1000g,7,7,9,7,3,3,20
+5/28/20 7:09,UK,30,15+,"Disease management,Chemical treatments,Food supplementation,Queen rearing,General hive management,Other",4,2,3,5,8,6,7,1,I don't supplement pollen,,,"Winter,Spring",8+ to 10,501-1000g,7,8,6,7,3,0,10
+5/28/20 6:52,UK,2,Between 3 and 5,"Disease management,General hive management",2,6,5,7,4,8,3,1,I don't supplement pollen,,,Winter,6+ to 8,0-250g,6,7,7,5,2,1,25
+5/28/20 7:13,UK,20,Between 5 and 10,"I haven't used educational programmes,Disease management,Chemical treatments,Food supplementation,Queen rearing,General hive management",8,2,3,5,1,7,6,4,I don't supplement pollen,,,I don't supplement sugars/candy,,,2,4,7,2,2,0,5
+5/28/20 6:35,UK,4,Between 1 and 3,"Disease management,Chemical treatments,Making a business of beekeeping,Food supplementation,Queen rearing,General hive management",4,6,7,3,1,2,8,5,Autumn,4+ to 6,0-250g,"Autumn,Winter",10+ to 12,251-500g,5,7,7,7,3,1,0
+5/28/20 7:45,UK,25,Between 5 and 10,"Chemical treatments,Making a business of beekeeping,Queen rearing",7,5,4,1,2,6,8,3,I don't supplement pollen,,,"Autumn,Winter,Spring",6+ to 8,0-250g,3,7,5,7,4,7,15
+5/28/20 7:43,UK,4,Between 3 and 5,"Disease management,Queen rearing,General hive management",1,5,6,2,7,8,3,4,Spring,2+ to 4,0-250g,Winter,4+ to 6,251-500g,6,6,4,6,4,3,20
+5/28/20 7:43,UK,3,Less than 1,"Disease management,Chemical treatments,Food supplementation,Queen rearing,General hive management,Other",7,3,4,2,6,8,5,1,Autumn,0 to 2,0-250g,Winter,12+,0-250g,6,6,10,7,3,7,0
+5/28/20 7:52,UK,7,Between 10 and 15,"Disease management,Queen rearing,General hive management",3,5,2,1,6,7,8,4,Spring,4+ to 6,0-250g,"Autumn,Winter",10+ to 12,0-250g,1,2,3,2,1,0,30
+5/28/20 8:04,UK,120,Between 3 and 5,I haven't used educational programmes,7,2,3,4,5,6,8,1,Spring,0 to 2,0-250g,"Autumn,Spring",4+ to 6,1500g+,6,6,5,6,2,3,20
+5/28/20 8:12,UK,1,Between 1 and 3,"Queen rearing,General hive management",6,1,4,8,5,7,3,2,"Autumn,Spring,Summer",12+,501-1000g,"Autumn,Spring",6+ to 8,501-1000g,4,6,7,7,6,3,0
+5/28/20 8:20,UK,6,Between 5 and 10,I haven't used educational programmes,8,7,5,2,3,1,4,6,I don't supplement pollen,,,"Autumn,Winter",2+ to 4,1500g+,6,5,3,4,1,3,5
+5/28/20 8:24,UK,6,Between 10 and 15,Disease management,1,6,7,3,5,4,2,8,I don't supplement pollen,,,Autumn,4+ to 6,0-250g,5,5,6,8,4,7,52
+5/28/20 8:31,UK,4,Less than 1,"Disease management,Queen rearing,General hive management",1,5,6,8,3,7,4,2,I don't supplement pollen,,,Winter,4+ to 6,251-500g,4,6,2,6,5,2,0
+5/28/20 8:40,UK,4,Between 10 and 15,"Disease management,Food supplementation,Queen rearing,General hive management,Other",6,7,1,3,4,8,5,2,I don't supplement pollen,,,"Autumn,Winter",4+ to 6,501-1000g,5,7,8,7,5,5,
+5/28/20 8:54,UK,5,Between 1 and 3,"Disease management,Chemical treatments,General hive management",3,8,6,1,2,5,4,7,I don't supplement pollen,,,"Autumn,Winter,Spring",6+ to 8,251-500g,2,2,4,4,2,2,33
+5/28/20 9:09,UK,4,Between 5 and 10,"Disease management,Chemical treatments,Queen rearing,General hive management",6,4,7,2,1,8,5,3,I don't supplement pollen,,,"Autumn,Winter,Spring",4+ to 6,0-250g,7,8,4,6,7,4,1
+5/28/20 9:24,UK,5,Between 3 and 5,General hive management,7,5,8,3,2,4,1,6,I don't supplement pollen,,,"Autumn,Winter",10+ to 12,251-500g,6,5,8,4,4,6,20
+5/28/20 9:29,UK,4,15+,I haven't used educational programmes,8,4,3,5,6,7,2,1,I don't supplement pollen,,,Autumn,0 to 2,1001-1500g,5,8,2,8,1,0,10
+5/28/20 9:29,UK,1,Between 1 and 3,"Disease management,General hive management",8,4,5,1,2,7,6,3,"Winter,Spring",6+ to 8,0-250g,"Winter,Spring",6+ to 8,501-1000g,3,5,3,3,3,2,0
+5/28/20 9:43,UK,1,15+,"General hive management,Other",7,3,4,8,5,6,2,1,I don't supplement pollen,,,"Autumn,Spring",2+ to 4,501-1000g,5,8,5,7,3,3,20
+5/28/20 10:04,UK,5,Between 5 and 10,General hive management,1,8,7,2,4,3,6,5,I don't supplement pollen,,,Autumn,2+ to 4,0-250g,3,6,7,6,4,5,15
+5/28/20 10:28,UK,8,Between 10 and 15,"Disease management,Queen rearing",7,3,2,5,4,6,8,1,I don't supplement pollen,,,"Winter,Spring",2+ to 4,1001-1500g,3,10,8,7,2,10,4
+5/28/20 11:23,UK,2,Between 3 and 5,"Disease management,Chemical treatments,Food supplementation,Queen rearing,General hive management,Other",8,7,3,6,1,5,4,2,Spring,2+ to 4,501-1000g,I don't supplement sugars/candy,,,2,6,8,7,3,0,20
+5/28/20 11:55,UK,3,Between 3 and 5,"General hive management,Other",4,2,3,6,5,7,8,1,I don't supplement pollen,,,"Autumn,Winter",6+ to 8,1001-1500g,3,8,5,3,3,1,13
+5/28/20 14:02,UK,24,Between 10 and 15,"Disease management,Food supplementation,Queen rearing,General hive management",5,3,6,1,7,8,4,2,I don't supplement pollen,,,I don't supplement sugars/candy,,,7,8,10,8,5,0,2
+5/28/20 14:15,UK,5,Between 3 and 5,"Disease management,General hive management",5,4,1,7,2,3,6,8,Winter,2+ to 4,0-250g,"Autumn,Winter,Spring",6+ to 8,0-250g,5,8,7,8,9,5,15
+5/28/20 14:42,UK,20,Between 3 and 5,General hive management,7,8,4,3,6,2,5,1,I don't supplement pollen,,,"Autumn,Winter,Spring",10+ to 12,1001-1500g,5,10,10,10,7,8,10
+5/28/20 15:49,UK,14,Between 5 and 10,"Disease management,Queen rearing,General hive management",6,5,3,7,1,2,8,4,Spring,2+ to 4,0-250g,Winter,0 to 2,0-250g,2,7,4,5,2,0,30
+5/28/20 16:21,UK,6,15+,I haven't used educational programmes,1,5,6,3,7,2,8,4,I don't supplement pollen,,,"Autumn,Winter",6+ to 8,0-250g,3,3,1,3,5,2,15
+5/28/20 23:29,UK,5,Between 3 and 5,"Disease management,Making a business of beekeeping,Queen rearing,General hive management",2,6,8,3,4,5,7,1,I don't supplement pollen,,,"Autumn,Winter",10+ to 12,251-500g,6,8,6,7,6,2,0
+5/28/20 23:46,UK,4,Between 5 and 10,"Disease management,Chemical treatments,Queen rearing,General hive management",1,3,5,6,7,4,8,2,I don't supplement pollen,,,Winter,2+ to 4,1001-1500g,3,7,2,2,1,1,0
+5/29/20 0:14,UK,60,15+,Other,5,6,1,4,2,7,8,3,Spring,2+ to 4,0-250g,Autumn,2+ to 4,1500g+,7,7,5,7,7,0,25
+5/29/20 0:09,UK,50,15+,"Disease management,Chemical treatments,Queen rearing",4,7,8,1,3,2,6,5,I don't supplement pollen,,,"Autumn,Winter",4+ to 6,1001-1500g,5,10,10,7,2,4,2
+5/29/20 0:22,UK,8,Between 5 and 10,I haven't used educational programmes,1,8,7,4,2,6,5,3,Spring,2+ to 4,0-250g,Winter,6+ to 8,501-1000g,2,5,8,2,2,10,15
+5/29/20 1:04,UK,13,Between 3 and 5,"Disease management,Chemical treatments,General hive management",6,5,4,1,2,8,7,3,Winter,10+ to 12,0-250g,Winter,10+ to 12,501-1000g,7,8,8,7,5,0,5
+5/29/20 1:07,UK,4,Between 5 and 10,I haven't used educational programmes,1,6,2,3,7,8,4,5,I don't supplement pollen,,,"Autumn,Winter",4+ to 6,501-1000g,5,8,9,8,5,2,10
+5/29/20 1:17,UK,18,Between 10 and 15,"Queen rearing,General hive management,Other",7,3,6,8,1,5,4,2,I don't supplement pollen,,,Winter,0 to 2,0-250g,3,7,10,5,1,0,12
+5/29/20 1:17,UK,20,15+,I haven't used educational programmes,3,6,1,5,7,8,2,4,Spring,0 to 2,0-250g,"Autumn,Spring",4+ to 6,251-500g,2,2,1,2,0,0,2
+5/29/20 1:29,UK,12,Between 10 and 15,"Disease management,Queen rearing,General hive management",5,8,1,7,2,6,3,4,I don't supplement pollen,,,"Winter,Spring",10+ to 12,251-500g,2,8,2,4,5,2,15
+5/29/20 2:11,UK,12,Between 5 and 10,"Disease management,Queen rearing,General hive management,Other",5,8,2,4,7,6,3,1,Spring,2+ to 4,0-250g,"Autumn,Spring",4+ to 6,501-1000g,4,9,8,7,4,3,5
+5/29/20 5:57,UK,3,Between 3 and 5,General hive management,6,7,8,5,2,1,4,3,I don't supplement pollen,,,"Autumn,Spring",6+ to 8,501-1000g,4,4,5,5,5,7,0
+5/29/20 6:05,UK,6,Between 5 and 10,"Disease management,Queen rearing,General hive management,Other",5,4,2,7,3,8,1,6,I don't supplement pollen,,,"Autumn,Spring",4+ to 6,0-250g,7,7,5,7,1,7,25
+5/29/20 6:28,UK,7,Between 10 and 15,"Disease management,Chemical treatments,Queen rearing,General hive management,Other",3,7,6,1,2,4,8,5,I don't supplement pollen,,,Autumn,6+ to 8,251-500g,3,5,2,3,3,0,4
+5/29/20 14:43,UK,2,Between 1 and 3,"Disease management,Chemical treatments,Food supplementation,General hive management",1,5,4,2,6,7,8,3,Spring,4+ to 6,0-250g,"Autumn,Winter",4+ to 6,251-500g,3,6,4,6,4,5,50
+5/29/20 15:14,UK,2,Between 1 and 3,"Chemical treatments,General hive management",8,5,3,4,1,6,7,2,I don't supplement pollen,,,Winter,8+ to 10,251-500g,2,8,2,7,5,1,0
+5/29/20 15:37,UK,5,Between 5 and 10,"Disease management,Chemical treatments",6,7,1,3,5,4,8,2,I don't supplement pollen,,,Winter,4+ to 6,0-250g,2,7,4,6,3,0,5
+5/30/20 0:34,UK,7,Between 1 and 3,"Disease management,Chemical treatments,Making a business of beekeeping,General hive management",3,4,2,6,5,8,7,1,Spring,6+ to 8,251-500g,"Autumn,Winter,Spring",12+,1500g+,4,7,9,7,3,0,25
+5/30/20 0:49,UK,8,Between 5 and 10,I haven't used educational programmes,8,7,4,3,1,2,5,6,I don't supplement pollen,,,I don't supplement sugars/candy,,,5,5,9,7,3,9,0
+5/30/20 2:01,UK,One,Between 3 and 5,"Disease management,Chemical treatments,Food supplementation,Queen rearing,General hive management",1,5,7,3,2,8,6,4,Spring,4+ to 6,251-500g,Winter,6+ to 8,251-500g,6,7,10,7,6,6,0
+5/30/20 3:34,USA,1,Less than 1,"Food supplementation,General hive management",3,4,2,6,5,7,8,1,Winter,8+ to 10,251-500g,Winter,8+ to 10,251-500g,5,8,7,5,7,7,
+5/30/20 4:39,USA,10,Between 1 and 3,"Disease management,Food supplementation,General hive management,Other",7,5,2,4,3,6,8,1,Spring,6+ to 8,0-250g,"Autumn,Winter",10+ to 12,501-1000g,0,8,1,3,2,8,30
+5/30/20 4:44,UK,5,Between 1 and 3,"Disease management,Chemical treatments,Food supplementation,General hive management,Other",8,2,3,5,4,6,7,1,Spring,4+ to 6,251-500g,Winter,4+ to 6,501-1000g,8,9,2,3,3,0,34
+5/30/20 5:04,USA,4,Between 1 and 3,"I haven't used educational programmes,Disease management,Food supplementation,General hive management",6,4,3,7,2,8,5,1,"Autumn,Winter",4+ to 6,251-500g,"Autumn,Winter,Summer,Spring",12+,251-500g,6,9,6,6,5,7,50
+5/30/20 5:50,USA,8,Between 3 and 5,I haven't used educational programmes,8,4,2,6,3,7,5,1,I don't supplement pollen,,,Spring,6+ to 8,1001-1500g,2,8,5,7,5,7,100
+5/30/20 6:32,USA,12,Between 1 and 3,"Disease management,Chemical treatments,General hive management",4,6,5,3,2,7,8,1,Winter,4+ to 6,501-1000g,"Winter,Spring",8+ to 10,1001-1500g,5,9,7,5,5,7,0
+5/30/20 8:43,UK,4,Between 1 and 3,"Disease management,Chemical treatments,Making a business of beekeeping,General hive management",6,7,8,4,1,5,3,2,I don't supplement pollen,,,"Autumn,Spring",0 to 2,501-1000g,2,7,3,2,1,0,0
+5/30/20 8:55,USA,5,Between 1 and 3,"Disease management,Chemical treatments,Food supplementation,General hive management,Other",4,5,1,6,3,7,8,2,Spring,6+ to 8,1000g+,"Autumn,Spring",8+ to 10,1500g+,5,8,10,8,5,3,
+5/30/20 8:59,South Africa,14,Between 1 and 3,General hive management,4,6,5,3,1,2,8,7,I don't supplement pollen,,,Winter,0 to 2,501-1000g,0,2,0,2,0,4,10
+5/30/20 9:52,USA,2,Between 5 and 10,I haven't used educational programmes,6,5,4,3,2,7,8,1,Spring,2+ to 4,0-250g,"Winter,Spring",8+ to 10,251-500g,3,9,4,6,7,4,100
+5/30/20 12:15,USA,3,Between 3 and 5,"Disease management,Chemical treatments",4,5,3,6,1,7,8,2,I don't supplement pollen,,,"Autumn,Winter",2+ to 4,251-500g,2,8,2,3,1,4,73
+5/30/20 14:25,UK,4,Between 5 and 10,I haven't used educational programmes,1,7,8,2,3,5,6,4,I don't supplement pollen,,,"Autumn,Winter",2+ to 4,1001-1500g,2,7,3,5,2,2,24
+5/30/20 14:39,UK,4,Between 3 and 5,"Disease management,Chemical treatments,Making a business of beekeeping,Food supplementation,General hive management,Other",8,2,4,7,3,6,5,1,I don't supplement pollen,,,"Winter,Spring",4+ to 6,501-1000g,7,9,4,8,2,1,10
+5/30/20 16:27,USA,10,Between 5 and 10,"Disease management,Food supplementation,Queen rearing,General hive management",7,2,3,5,4,6,8,1,"Autumn,Spring",4+ to 6,251-500g,"Autumn,Winter",6+ to 8,1001-1500g,5,10,5,8,3,0,20
+5/30/20 19:07,USA,27,Between 5 and 10,"Disease management,Chemical treatments,Making a business of beekeeping,General hive management",7,6,3,4,2,5,8,1,I don't supplement pollen,,,Spring,0 to 2,0-250g,2,10,9,10,9,3,50
+5/30/20 19:35,USA,30,Between 10 and 15,"Disease management,Chemical treatments,Making a business of beekeeping,Queen rearing,General hive management",7,6,4,3,5,2,8,1,I don't supplement pollen,,,"Winter,Summer",6+ to 8,251-500g,2,10,3,8,2,4,27
+5/30/20 22:48,USA,3,Less than 1,"Disease management,Making a business of beekeeping,General hive management",4,8,3,6,1,5,7,2,I don't supplement pollen,,,I don't supplement sugars/candy,,,5,0,5,7,5,8,0
+5/31/20 0:09,UK,2,Between 1 and 3,"Chemical treatments,Food supplementation,General hive management",2,6,7,3,1,4,5,8,I don't supplement pollen,,,Winter,4+ to 6,0-250g,3,3,3,3,3,3,0
+5/31/20 7:42,Canada,3,Between 1 and 3,"Disease management,Queen rearing,General hive management",6,5,7,3,2,4,8,1,"Autumn,Spring",2+ to 4,251-500g,"Autumn,Spring",2+ to 4,501-1000g,2,9,4,4,3,0,0
+5/31/20 14:09,UK,4,Between 10 and 15,General hive management,6,7,4,1,5,8,3,2,I don't supplement pollen,,,"Autumn,Winter",2+ to 4,501-1000g,2,7,3,7,2,0,15
+5/31/20 15:45,UK,7,Between 5 and 10,"Disease management,Chemical treatments,Food supplementation,General hive management",1,7,4,3,2,5,8,6,Spring,2+ to 4,251-500g,"Autumn,Winter",4+ to 6,251-500g,3,4,10,6,3,0,37
+5/31/20 17:01,UK,3,Between 1 and 3,General hive management,1,7,6,2,3,8,5,4,I don't supplement pollen,,,Winter,0 to 2,501-1000g,4,6,3,3,2,0,0
+6/1/20 6:02,USA,200,Between 5 and 10,"Disease management,Making a business of beekeeping,Food supplementation,General hive management",7,6,5,3,2,4,8,1,"Autumn,Winter,Spring",12+,1000g+,"Autumn,Winter,Spring",12+,1500g+,2,10,3,3,3,3,45
+6/2/20 1:37,UK,12,15+,"I haven't used educational programmes,Disease management,Making a business of beekeeping,Queen rearing,General hive management,Other",8,5,4,6,3,2,7,1,I don't supplement pollen,,,Winter,2+ to 4,1500g+,4,7,2,6,2,0,15
+6/3/20 1:40,UK,7,Between 10 and 15,"Disease management,Chemical treatments,Queen rearing,Other",2,5,6,4,8,7,3,1,I don't supplement pollen,,,"Autumn,Winter,Spring",2+ to 4,0-250g,5,9,5,8,1,9,2
+6/3/20 3:20,UK,3,Between 1 and 3,"Disease management,Chemical treatments,Food supplementation,Queen rearing,General hive management,Other",2,4,6,3,1,7,8,5,"Autumn,Spring",4+ to 6,0-250g,Spring,2+ to 4,0-250g,5,8,3,7,5,3,0
+6/4/20 8:19,UK,3,Between 5 and 10,"Disease management,Chemical treatments,General hive management",5,4,3,6,1,7,8,2,I don't supplement pollen,,,"Autumn,Winter,Spring",8+ to 10,501-1000g,5,8,5,8,7,2,30
+6/6/20 8:17,UK,22,15+,Queen rearing,6,2,4,7,5,8,3,1,I don't supplement pollen,,,"Autumn,Spring",2+ to 4,501-1000g,7,6,3,5,3,1,12
+6/7/20 9:22,UK,15,Between 5 and 10,"I haven't used educational programmes,Disease management,General hive management",4,3,2,5,6,7,8,1,"Autumn,Spring",2+ to 4,0-250g,"Autumn,Spring",2+ to 4,1500g+,6,8,4,3,3,1,1
+6/7/20 9:24,UK,100,15+,"Disease management,Chemical treatments,Making a business of beekeeping,Food supplementation,Queen rearing,General hive management,Other",7,8,3,4,6,5,1,2,Spring,4+ to 6,0-250g,Autumn,2+ to 4,1500g+,3,8,4,3,2,8,10
+6/7/20 9:30,UK,65,Between 5 and 10,I haven't used educational programmes,5,2,6,4,1,8,7,3,I don't supplement pollen,,,"Winter,Summer",4+ to 6,501-1000g,3,6,7,7,7,6,10
+6/7/20 9:53,France,4,Between 1 and 3,"Disease management,Chemical treatments,Food supplementation,General hive management",1,4,5,6,7,8,3,2,I don't supplement pollen,,,"Winter,Spring",6+ to 8,251-500g,8,10,6,7,5,7,18
+6/7/20 9:52,UK,25,Between 1 and 3,"Disease management,General hive management",1,7,4,2,5,3,6,8,Spring,0 to 2,0-250g,"Autumn,Winter,Summer,Spring",4+ to 6,1001-1500g,5,5,2,3,3,0,15
+6/7/20 10:01,UK,21,Between 10 and 15,Queen rearing,5,8,7,2,3,4,6,1,Spring,2+ to 4,251-500g,Autumn,2+ to 4,1500g+,7,10,10,8,6,4,5
+6/7/20 10:13,UK,10,Between 10 and 15,"Disease management,Chemical treatments,Food supplementation,Queen rearing,General hive management,Other",5,8,2,7,3,6,4,1,I don't supplement pollen,,,Autumn,2+ to 4,1500g+,2,8,7,5,1,1,5
+6/7/20 10:29,Germany,11,Between 10 and 15,Other,6,4,7,3,2,1,8,5,I don't supplement pollen,,,I don't supplement sugars/candy,,,3,3,4,2,3,1,25
+6/7/20 11:17,Germany,5,Between 1 and 3,"Chemical treatments,Food supplementation,General hive management",3,6,8,1,2,4,7,5,I don't supplement pollen,,,I don't supplement sugars/candy,,,6,8,8,8,4,4,0
+6/7/20 11:32,UK,25,Between 5 and 10,"I haven't used educational programmes,Other",8,6,7,3,2,4,1,5,I don't supplement pollen,,,I don't supplement sugars/candy,,,2,2,5,3,3,0,19
+6/7/20 12:02,UK,12,Between 3 and 5,"Disease management,Chemical treatments,General hive management",1,7,2,3,4,8,6,5,I don't supplement pollen,,,Autumn,0 to 2,1500g+,2,6,8,6,1,1,0
+6/7/20 9:35,UK,20,Between 10 and 15,"Disease management,Food supplementation,Queen rearing,General hive management",3,8,7,4,1,2,6,5,Spring,2+ to 4,0-250g,"Autumn,Winter",4+ to 6,1001-1500g,2,3,4,2,2,1,10
+6/7/20 12:30,UK,5,Between 5 and 10,"Queen rearing,General hive management,Other",5,7,8,3,2,1,6,4,I don't supplement pollen,,,Winter,4+ to 6,501-1000g,5,7,7,7,7,1,24
+6/7/20 12:45,Sweden,2,Between 1 and 3,"Disease management,General hive management",4,2,1,3,5,7,8,6,I don't supplement pollen,,,"Autumn,Winter",2+ to 4,1500g+,2,4,8,5,5,0,0
+6/7/20 12:43,UK,42,Between 10 and 15,"Disease management,Queen rearing",6,2,5,8,1,7,4,3,Spring,2+ to 4,0-250g,Winter,10+ to 12,251-500g,8,4,2,2,1,1,16
+6/7/20 13:39,UK,1,Less than 1,I haven't used educational programmes,2,7,8,4,6,3,5,1,I don't supplement pollen,,,I don't supplement sugars/candy,,,0,8,0,2,0,0,
+6/7/20 14:10,UK,9,Between 3 and 5,"Disease management,General hive management",3,6,7,2,1,8,5,4,Spring,2+ to 4,0-250g,"Autumn,Winter",6+ to 8,1001-1500g,5,4,6,3,2,0,20
+6/7/20 15:20,UK,5,Between 3 and 5,"Disease management,Food supplementation,General hive management",2,7,6,3,4,5,8,1,I don't supplement pollen,,,"Autumn,Winter",12+,1001-1500g,6,9,5,8,4,0,22
+6/7/20 17:15,USA,3,Between 3 and 5,"Disease management,Chemical treatments,Food supplementation,General hive management",4,7,2,5,3,6,8,1,I don't supplement pollen,,,"Autumn,Winter,Summer",12+,1001-1500g,3,9,6,7,3,1,70
+6/7/20 17:13,UK,4,Between 3 and 5,"Disease management,Food supplementation,Queen rearing,General hive management",7,3,4,6,5,8,1,2,Spring,4+ to 6,251-500g,Winter,4+ to 6,1500g+,6,7,7,7,3,1,5
+6/7/20 18:06,UK,3,Between 3 and 5,General hive management,6,3,4,5,1,7,8,2,I don't supplement pollen,,,I don't supplement sugars/candy,,,4,7,4,6,5,6,0
+6/8/20 1:49,UK,7,Between 5 and 10,Disease management,2,5,1,6,3,7,4,8,Spring,2+ to 4,0-250g,"Autumn,Summer,Spring",6+ to 8,1500g+,7,4,9,6,4,1,71
+6/8/20 3:09,UK,7,15+,Queen rearing,7,2,3,1,5,8,4,6,I don't supplement pollen,,,"Autumn,Spring",0 to 2,251-500g,6,3,3,3,1,3,20
+6/8/20 4:18,UK,2,Between 5 and 10,Disease management,2,6,4,1,7,5,8,3,I don't supplement pollen,,,"Autumn,Spring",4+ to 6,1500g+,3,7,5,5,3,3,50
+6/8/20 4:40,Australia,35,Between 5 and 10,"Disease management,Food supplementation,Queen rearing,General hive management",1,6,5,2,4,7,8,3,I don't supplement pollen,,,I don't supplement sugars/candy,,,2,9,7,1,3,3,3
+6/8/20 4:09,UK,4,Between 1 and 3,"Disease management,General hive management",7,5,6,4,1,8,3,2,I don't supplement pollen,,,Winter,2+ to 4,1001-1500g,2,5,2,5,2,0,0
+6/8/20 6:44,UK,2,Between 3 and 5,General hive management,2,5,4,7,3,8,6,1,I don't supplement pollen,,,Winter,6+ to 8,501-1000g,4,6,4,5,4,4,10
+6/8/20 9:33,UK,10,Between 5 and 10,I haven't used educational programmes,8,2,4,5,6,7,3,1,I don't supplement pollen,,,"Autumn,Winter",6+ to 8,251-500g,5,8,10,6,2,0,8
+6/8/20 11:04,UK,13,Between 5 and 10,"Disease management,General hive management",1,2,3,4,5,6,7,8,I don't supplement pollen,,,Autumn,4+ to 6,501-1000g,4,7,9,6,5,2,2
+6/8/20 11:51,UK,53,15+,I haven't used educational programmes,7,2,5,3,6,4,8,1,I don't supplement pollen,,,"Autumn,Winter",8+ to 10,501-1000g,8,10,10,3,3,1,6
+6/8/20 14:04,UK,2,Between 5 and 10,General hive management,3,7,5,2,6,1,8,4,I don't supplement pollen,,,"Autumn,Spring",2+ to 4,501-1000g,4,8,5,5,2,1,30
+6/8/20 14:17,UK,2,Between 1 and 3,I haven't used educational programmes,6,4,2,3,1,7,5,8,I don't supplement pollen,,,Autumn,0 to 2,251-500g,7,2,5,5,5,5,2
+6/8/20 15:25,UK,3,Between 5 and 10,General hive management,4,3,1,5,7,8,6,2,Spring,2+ to 4,0-250g,"Autumn,Winter,Summer",8+ to 10,251-500g,3,4,8,0,0,0,19
+6/9/20 1:02,UK,30,15+,Queen rearing,1,2,3,4,5,6,7,8,I don't supplement pollen,,,I don't supplement sugars/candy,,,2,2,2,2,3,10,25
+6/9/20 13:07,UK,5,Between 10 and 15,"Disease management,Chemical treatments,General hive management",6,5,2,7,3,8,4,1,I don't supplement pollen,,,Winter,12+,0-250g,2,10,8,8,2,0,50
+6/11/20 16:14,UK,17,15+,"Disease management,Making a business of beekeeping",6,3,2,5,1,7,8,4,I don't supplement pollen,,,"Winter,Spring",4+ to 6,0-250g,4,3,10,5,5,0,15
+6/11/20 16:29,UK,4,15+,I haven't used educational programmes,4,5,6,1,3,2,7,8,I don't supplement pollen,,,I don't supplement sugars/candy,,,1,1,1,1,1,1,1
+6/11/20 18:21,USA,11,Between 1 and 3,"Making a business of beekeeping,General hive management",6,5,4,3,1,7,8,2,Spring,0 to 2,0-250g,"Autumn,Spring",6+ to 8,1500g+,3,6,2,3,3,6,25
+6/11/20 19:56,USA,12,Between 3 and 5,"Disease management,Chemical treatments,Food supplementation,General hive management,Other",4,6,7,1,3,2,8,5,I don't supplement pollen,,,I don't supplement sugars/candy,,,5,5,5,5,5,5,80
+6/12/20 1:01,Greece,20,Between 5 and 10,"Disease management,General hive management",6,7,5,3,1,2,8,4,I don't supplement pollen,,,Winter,6+ to 8,0-250g,5,10,0,5,0,0,10
+6/12/20 3:17,UK,2,Between 3 and 5,I haven't used educational programmes,4,7,6,5,1,3,8,2,I don't supplement pollen,,,I don't supplement sugars/candy,,,5,8,5,5,3,3,10
+6/12/20 5:39,UK,2,Between 3 and 5,General hive management,3,8,6,4,1,2,5,7,I don't supplement pollen,,,I don't supplement sugars/candy,,,3,2,5,3,4,0,6
+6/12/20 6:06,UK,7,Between 3 and 5,"Disease management,Other",7,8,3,5,1,4,6,2,I don't supplement pollen,,,I don't supplement sugars/candy,,,3,7,3,7,1,5,13
+6/12/20 11:09,UK,6,Between 5 and 10,"I haven't used educational programmes,Disease management,General hive management,Other",2,4,5,6,1,7,8,3,I don't supplement pollen,,,I don't supplement sugars/candy,,,10,10,10,10,7,5,0
+6/12/20 16:38,Ireland,7,Between 5 and 10,"Disease management,General hive management,Other",2,4,5,7,1,6,8,3,I don't supplement pollen,,,Autumn,2+ to 4,1500g+,4,4,7,4,1,1,4
+6/13/20 4:44,UK,10,15+,I haven't used educational programmes,1,3,5,4,7,8,6,2,I don't supplement pollen,,,Autumn,0 to 2,0-250g,5,8,6,7,5,0,10
+6/13/20 15:42,Turkey,40,15+,"Disease management,Making a business of beekeeping,Food supplementation,Queen rearing,General hive management",1,5,3,7,2,6,8,4,I don't supplement pollen,,,Spring,2+ to 4,501-1000g,3,6,6,4,6,4,5
+6/14/20 8:44,UK,5,Between 10 and 15,"Disease management,Chemical treatments,Food supplementation,Queen rearing,General hive management,Other",3,7,6,4,1,5,8,2,I don't supplement pollen,,,I don't supplement sugars/candy,,,4,6,3,4,2,1,10
+6/14/20 8:47,UK,6,Between 1 and 3,Queen rearing,1,6,8,4,2,3,5,7,I don't supplement pollen,,,"Autumn,Spring",2+ to 4,0-250g,5,6,5,5,6,5,10
+6/14/20 8:49,UK,40,Between 10 and 15,"Disease management,Queen rearing,General hive management",1,7,8,2,3,4,5,6,Spring,4+ to 6,501-1000g,"Autumn,Winter",12+,1500g+,2,3,3,3,1,0,15
+6/14/20 9:43,UK,16,Between 5 and 10,"Disease management,Queen rearing,General hive management",8,5,4,6,1,2,7,3,Spring,0 to 2,0-250g,Autumn,0 to 2,251-500g,5,8,5,5,1,0,10
+6/14/20 9:37,UK,5,15+,Disease management,5,6,8,3,4,2,7,1,I don't supplement pollen,,,I don't supplement sugars/candy,,,1,8,3,5,1,5,0
+6/14/20 10:08,UK,37,Between 3 and 5,"Making a business of beekeeping,Queen rearing,General hive management,Other",2,7,8,5,1,4,3,6,I don't supplement pollen,,,I don't supplement sugars/candy,,,5,5,10,7,2,0,10
+6/14/20 10:39,UK,12,Between 10 and 15,I haven't used educational programmes,7,3,2,4,5,6,8,1,Spring,2+ to 4,0-250g,"Autumn,Spring",2+ to 4,1500g+,7,9,5,6,1,0,10
+6/14/20 10:47,UK,5,15+,"Disease management,Chemical treatments,Queen rearing,General hive management",6,3,5,1,4,7,8,2,I don't supplement pollen,,,Autumn,2+ to 4,1500g+,1,2,1,2,1,0,5
+6/14/20 11:05,UK,150,Between 10 and 15,"Disease management,Chemical treatments,Making a business of beekeeping,Queen rearing,General hive management",4,6,7,3,8,5,2,1,Spring,2+ to 4,251-500g,Autumn,2+ to 4,251-500g,3,10,10,8,4,8,22
+6/14/20 11:20,UK,15,Between 10 and 15,"Disease management,Chemical treatments,Queen rearing",8,3,2,4,5,7,6,1,I don't supplement pollen,,,Autumn,0 to 2,1500g+,2,7,5,3,2,0,1
+6/14/20 11:33,UK,17,Between 5 and 10,"Food supplementation,Queen rearing,General hive management",7,3,4,5,6,8,2,1,Spring,4+ to 6,0-250g,Winter,6+ to 8,251-500g,7,8,5,7,5,3,5
+6/14/20 11:36,UK,5,Between 3 and 5,"Disease management,Queen rearing,General hive management",3,6,5,4,8,7,1,2,I don't supplement pollen,,,"Autumn,Winter,Spring",12+,501-1000g,3,7,4,6,2,0,20
+6/14/20 12:38,UK,10,Between 5 and 10,"Disease management,Queen rearing",2,6,3,8,4,1,5,7,I don't supplement pollen,,,"Autumn,Spring",6+ to 8,501-1000g,2,7,10,6,4,10,25
+6/14/20 12:46,UK,5,Between 1 and 3,General hive management,8,4,2,5,1,7,3,6,"Autumn,Winter,Spring",12+,251-500g,I don't supplement sugars/candy,,,0,1,1,1,0,1,0
+6/14/20 12:50,UK,8,Between 10 and 15,I haven't used educational programmes,5,6,4,3,7,2,8,1,I don't supplement pollen,,,I don't supplement sugars/candy,,,6,9,4,7,4,2,10
+6/14/20 13:03,UK,2,Between 3 and 5,General hive management,6,3,5,7,1,8,4,2,I don't supplement pollen,,,"Autumn,Spring",2+ to 4,251-500g,7,8,7,6,6,4,90
+6/14/20 13:11,UK,3,Between 10 and 15,"Disease management,Food supplementation,Queen rearing,General hive management",6,2,4,3,7,8,5,1,I don't supplement pollen,,,"Autumn,Spring",0 to 2,1001-1500g,6,10,10,10,8,6,2
+6/14/20 13:20,UK,5,Between 1 and 3,"Disease management,General hive management",7,4,3,5,1,8,6,2,Spring,0 to 2,0-250g,"Autumn,Spring",2+ to 4,251-500g,3,8,3,4,3,0,0
+6/14/20 13:20,UK,8,Between 5 and 10,"Disease management,Chemical treatments,Queen rearing,General hive management",1,6,7,4,3,2,8,5,I don't supplement pollen,,,Winter,12+,1001-1500g,3,5,5,5,5,2,0
+6/14/20 13:19,UK,two,Less than 1,"Disease management,Chemical treatments,General hive management",6,7,4,3,2,5,8,1,"Winter,Spring",10+ to 12,0-250g,"Winter,Spring",10+ to 12,251-500g,7,10,6,5,7,7,10
+6/14/20 13:33,UK,6,Between 10 and 15,I haven't used educational programmes,7,6,4,1,2,5,3,8,I don't supplement pollen,,,I don't supplement sugars/candy,,,1,0,2,1,1,6,14
+6/14/20 13:37,UK,3,Between 1 and 3,"Disease management,Chemical treatments,Food supplementation,General hive management,Other",2,8,5,7,1,3,4,6,I don't supplement pollen,,,I don't supplement sugars/candy,,,1,1,1,1,1,1,30
+6/14/20 13:39,UK,11,Between 3 and 5,"Disease management,Chemical treatments,General hive management",3,7,6,1,4,2,8,5,I don't supplement pollen,,,I don't supplement sugars/candy,,,0,1,10,3,0,0,2
+6/14/20 14:04,UK,3,Between 1 and 3,General hive management,7,6,5,1,3,2,8,4,I don't supplement pollen,,,"Autumn,Winter,Summer",12+,251-500g,4,8,4,6,5,3,29
+6/14/20 14:17,UK,5,Between 5 and 10,Disease management,8,4,2,3,7,6,5,1,I don't supplement pollen,,,Autumn,4+ to 6,1500g+,5,10,8,5,3,1,15
+6/14/20 14:24,UK,14,Between 1 and 3,Other,4,8,1,5,3,6,7,2,I don't supplement pollen,,,I don't supplement sugars/candy,,,1,8,3,8,0,5,11
+6/14/20 14:33,UK,3,Between 1 and 3,"Chemical treatments,Queen rearing,General hive management",5,7,6,2,1,4,8,3,I don't supplement pollen,,,Autumn,2+ to 4,1500g+,3,7,3,8,4,1,5
+6/14/20 15:16,UK,30,15+,"Disease management,Queen rearing,General hive management,Other",7,5,2,3,4,6,8,1,I don't supplement pollen,,,Autumn,2+ to 4,1500g+,4,10,6,10,0,5,10
+6/14/20 15:39,Ireland,3,Between 3 and 5,"Disease management,Queen rearing,General hive management",8,4,7,2,6,1,5,3,Winter,2+ to 4,0-250g,Winter,8+ to 10,0-250g,5,7,9,7,3,7,20
+6/14/20 15:55,UK,7,Between 5 and 10,I haven't used educational programmes,8,5,7,1,3,2,6,4,I don't supplement pollen,,,"Autumn,Winter,Spring",4+ to 6,1001-1500g,7,8,4,8,4,0,10
+6/14/20 15:59,UK,250,15+,"Disease management,Making a business of beekeeping,Queen rearing,General hive management",2,6,7,1,5,3,8,4,I don't supplement pollen,,,"Autumn,Winter,Spring",8+ to 10,1001-1500g,1,3,3,6,5,0,15
+6/14/20 16:47,UK,9,Between 5 and 10,"Disease management,Chemical treatments,Food supplementation,Queen rearing,General hive management,Other",7,6,4,2,3,1,8,5,Autumn,2+ to 4,0-250g,"Autumn,Winter",6+ to 8,1001-1500g,3,6,6,6,3,0,3
+6/14/20 17:05,UK,300,15+,I haven't used educational programmes,4,2,3,6,8,7,5,1,I don't supplement pollen,,,"Autumn,Spring",2+ to 4,1500g+,5,8,3,4,3,0,8
+6/14/20 17:22,Germany,40,Between 10 and 15,"Disease management,Chemical treatments,Making a business of beekeeping,Queen rearing,General hive management",8,7,4,2,3,6,5,1,Spring,0 to 2,0-250g,"Autumn,Spring",2+ to 4,1500g+,2,10,4,5,2,0,7
+6/14/20 17:51,UK,10,Between 10 and 15,"Disease management,Queen rearing,General hive management",2,4,5,3,6,7,8,1,Spring,4+ to 6,251-500g,"Autumn,Winter,Summer,Spring",12+,1001-1500g,4,10,10,10,3,10,2
+6/14/20 20:31,UK,8,Between 3 and 5,"Queen rearing,General hive management",6,2,4,3,5,8,7,1,I don't supplement pollen,,,"Autumn,Winter,Spring",2+ to 4,1500g+,5,8,8,8,10,3,20
+6/15/20 0:16,UK,4,Between 5 and 10,Queen rearing,6,2,5,7,3,8,4,1,I don't supplement pollen,,,Winter,0 to 2,0-250g,5,7,4,5,2,2,10
+6/14/20 23:49,UK,10,Between 5 and 10,"Disease management,Chemical treatments,Food supplementation,Queen rearing,General hive management",7,4,3,1,5,6,8,2,Spring,4+ to 6,0-250g,"Autumn,Winter,Spring",12+,0-250g,5,9,2,8,0,1,8
+6/15/20 0:23,UK,3,15+,"Disease management,General hive management,Other",2,3,4,7,1,8,6,5,I don't supplement pollen,,,"Autumn,Spring",6+ to 8,1001-1500g,5,8,9,3,2,2,20
+6/15/20 0:51,UK,4,Between 3 and 5,"Disease management,General hive management",4,5,3,8,6,7,1,2,I don't supplement pollen,,,"Autumn,Winter,Spring",4+ to 6,501-1000g,5,8,8,8,5,3,0
+6/15/20 1:33,UK,8,Between 5 and 10,"Disease management,Queen rearing,General hive management,Other",3,5,6,2,7,4,8,1,Spring,2+ to 4,0-250g,"Autumn,Winter,Spring",8+ to 10,0-250g,3,9,2,8,1,0,10
+6/15/20 1:51,UK,11,Between 10 and 15,"Queen rearing,General hive management",2,4,6,1,3,8,7,5,I don't supplement pollen,,,"Autumn,Spring",2+ to 4,1001-1500g,3,3,4,2,1,1,10
+6/15/20 5:21,UK,15,15+,"Disease management,Queen rearing,General hive management",5,7,3,2,8,6,1,4,I don't supplement pollen,,,"Autumn,Winter,Spring",2+ to 4,251-500g,2,4,4,6,5,0,15
+6/15/20 7:55,UK,7,Between 5 and 10,"Disease management,Chemical treatments,Queen rearing,General hive management",6,5,3,7,2,8,4,1,I don't supplement pollen,,,Autumn,0 to 2,1500g+,5,8,6,6,8,3,0
+6/15/20 12:48,UK,10,Between 5 and 10,I haven't used educational programmes,8,7,6,4,2,3,1,5,I don't supplement pollen,,,Autumn,0 to 2,1500g+,1,7,2,3,2,2,0
+6/15/20 14:00,UK,5,Between 10 and 15,"Disease management,Queen rearing,General hive management",7,4,5,6,1,8,3,2,I don't supplement pollen,,,"Autumn,Winter,Spring",6+ to 8,251-500g,6,7,5,8,6,2,20
+5/15/20 18:18,USA,2,Less than 1,"Disease management,Chemical treatments,Making a business of beekeeping,General hive management",7,5,2,4,,1,6,3,I don't supplement pollen,,,I don't supplement sugars/candy,,,3,7,5,5,2,,100
+5/16/20 2:07,UK,60,Between 10 and 15,I haven't used educational programmes,2,5,7,3,,4,6,1,I don't supplement pollen,,,I don't supplement sugars/candy,,,3,9,2,5,1,,15
+6/16/20 6:53,UK,30,Between 3 and 5,I haven't used educational programmes,8,6,2,7,4,5,3,1,"Winter,Spring",2+ to 4,251-500g,"Winter,Spring",4+ to 6,1001-1500g,3,10,10,10,6,3,2
+6/16/20 8:14,USA,4,Between 1 and 3,"Disease management,Chemical treatments,General hive management",7,4,3,5,6,2,8,1,"Spring,Summer",6+ to 8,251-500g,"Autumn,Winter,Spring",6+ to 8,251-500g,4,8,5,6,4,5,20
+6/16/20 8:58,Canada,3,Between 5 and 10,"Disease management,General hive management",2,3,4,5,6,7,8,1,Autumn,0 to 2,0-250g,Autumn,0 to 2,0-250g,2,8,1,1,6,0,18
+6/16/20 13:40,UK,22,Between 1 and 3,"Disease management,Queen rearing,General hive management",7,8,4,3,1,6,5,2,"Spring,Summer",4+ to 6,501-1000g,"Winter,Spring",6+ to 8,251-500g,4,9,6,7,3,1,36
+6/16/20 15:22,UK,20,Between 10 and 15,"Disease management,Queen rearing,General hive management",7,3,2,5,6,4,8,1,I don't supplement pollen,,,I don't supplement sugars/candy,,,7,9,6,6,1,0,10
+6/16/20 15:43,UK,14,15+,Queen rearing,8,5,3,2,6,7,4,1,I don't supplement pollen,,,Autumn,0 to 2,1500g+,5,10,5,6,0,0,21
+6/16/20 20:17,USA,6,Between 5 and 10,"Disease management,Chemical treatments,Food supplementation,Queen rearing,General hive management,Other",3,8,5,4,2,6,7,1,"Winter,Spring",4+ to 6,251-500g,Winter,8+ to 10,251-500g,3,10,4,8,5,4,60
+5/17/20 3:04,UK,5,Between 5 and 10,"Disease management,Chemical treatments,Food supplementation,Queen rearing,General hive management,Other",8,2,4,7,3,6,5,1,I don't supplement pollen,,,"Autumn,Winter",,,,,,,,,
+5/17/20 5:10,UK,3,Less than 1,"Disease management,General hive management",3,5,7,4,2,8,6,1,Spring,,,,,,,,,,,,
+6/17/20 5:13,UK,2,15+,"Disease management,Queen rearing,General hive management",8,4,5,6,2,7,3,1,I don't supplement pollen,,,I don't supplement sugars/candy,,,2,4,1,4,3,0,15
+5/17/20 12:47,UK,4,Between 3 and 5,General hive management,5,4,6,7,2,8,3,1,I don't supplement pollen,,,Autumn,2+ to 4,1500g+,3,5,5,5,3,0,10
+6/17/20 13:30,UK,7,15+,"I haven't used educational programmes,Disease management,Chemical treatments,Food supplementation,Queen rearing,General hive management",8,6,2,3,7,4,5,1,"Autumn,Spring",4+ to 6,0-250g,"Autumn,Spring",4+ to 6,251-500g,5,8,3,8,3,0,30
+6/17/20 16:09,UK,38,Less than 1,Disease management,3,7,1,2,4,5,8,6,I don't supplement pollen,,,Autumn,0 to 2,1500g+,2,4,2,3,1,1,12
+5/18/20 1:50,Uzbekistan,67,Between 5 and 10,Queen rearing,5,1,2,3,4,6,7,8,Spring,6+ to 8,501-1000g,Autumn,4+ to 6,251-500g,10,5,7,7,7,7,77
+6/18/20 5:58,UK,10,Between 10 and 15,"Queen rearing,General hive management",4,8,6,1,2,5,3,7,I don't supplement pollen,,,I don't supplement sugars/candy,,,0,0,5,0,0,0,10
+5/18/20 8:19,USA,5,Between 5 and 10,I haven't used educational programmes,8,3,2,4,5,6,7,1,Spring,,,,,,,,,,,,
+6/18/20 12:30,UK,7,Between 10 and 15,"Disease management,General hive management",1,6,7,3,2,4,8,5,I don't supplement pollen,,,"Autumn,Spring",2+ to 4,1001-1500g,5,8,2,8,1,1,10
+6/18/20 13:43,UK,7,Between 3 and 5,"Disease management,Chemical treatments,Queen rearing,General hive management",1,7,6,2,4,8,5,3,Spring,0 to 2,0-250g,Autumn,2+ to 4,1500g+,2,6,3,2,2,0,15
+6/19/20 9:36,UK,5,Between 1 and 3,"Disease management,General hive management",3,7,2,4,1,6,5,8,I don't supplement pollen,,,I don't supplement sugars/candy,,,4,3,4,3,3,0,0
+6/19/20 9:58,USA,6,Between 1 and 3,"Disease management,Queen rearing,General hive management",4,5,6,2,1,3,7,8,I don't supplement pollen,,,I don't supplement sugars/candy,,,7,1,7,7,5,2,50
+6/19/20 10:27,USA,2,Between 1 and 3,General hive management,6,8,5,4,1,3,7,2,I don't supplement pollen,,,I don't supplement sugars/candy,,,5,8,6,7,6,9,50
+6/19/20 12:06,USA,3,Less than 1,General hive management,5,6,7,4,2,3,8,1,Winter,2+ to 4,0-250g,"Winter,Spring",6+ to 8,0-250g,3,8,6,7,6,5,0
+6/19/20 16:53,USA,15,Between 3 and 5,"Disease management,Chemical treatments,General hive management",6,7,5,3,4,2,8,1,Spring,0 to 2,0-250g,Winter,6+ to 8,0-250g,2,7,2,2,2,7,5
+6/19/20 20:20,USA,2,Between 3 and 5,I haven't used educational programmes,5,4,2,8,1,7,6,3,I don't supplement pollen,,,I don't supplement sugars/candy,,,5,7,6,6,5,8,45
+6/20/20 1:55,UK,2,Between 1 and 3,General hive management,6,5,4,1,3,2,8,7,Winter,6+ to 8,0-250g,Winter,6+ to 8,0-250g,0,1,1,1,1,0,5
+6/20/20 10:36,Netherlands,6,Between 3 and 5,I haven't used educational programmes,6,8,5,1,2,3,7,4,I don't supplement pollen,,,"Autumn,Spring",2+ to 4,501-1000g,1,4,1,3,3,0,30
+6/20/20 19:00,USA,4,Between 1 and 3,General hive management,6,3,4,5,1,7,8,2,I don't supplement pollen,,,"Autumn,Winter,Summer",12+,251-500g,1,5,1,1,1,3,77
+6/20/20 20:17,USA,1,Less than 1,"Disease management,Food supplementation,General hive management",2,5,6,3,1,7,8,4,"Autumn,Spring",0 to 2,0-250g,I don't supplement sugars/candy,,,3,5,3,2,2,5,0
+6/22/20 1:03,UK,25,Between 5 and 10,"Disease management,Queen rearing",4,6,3,1,2,8,7,5,Winter,4+ to 6,0-250g,"Autumn,Winter",6+ to 8,0-250g,5,4,1,3,1,0,5
+6/26/20 9:24,Netherlands,2,Between 3 and 5,"Disease management,General hive management",2,6,7,4,1,5,8,3,I don't supplement pollen,,,"Autumn,Winter",0 to 2,1500g+,2,6,6,3,3,3,40
+5/28/20 4:01,UK,7,Between 5 and 10,I haven't used educational programmes,8,2,3,5,4,6,7,1,I don't supplement pollen,,,"Autumn,Winter,Spring",2+ to 4,501-1000g,5,8,5,8,5,1,0
+5/28/20 4:15,UK,23,15+,I haven't used educational programmes,4,6,3,8,5,7,2,1,I don't supplement pollen,,,Winter,,,,,,,,,
+5/28/20 4:24,UK,2,Between 1 and 3,"Disease management,Chemical treatments,General hive management",8,7,4,5,3,6,2,1,I don't supplement pollen,,,"Autumn,Winter",6+ to 8,1500g+,,,,,,,
+5/28/20 4:51,UK,3,Between 5 and 10,"Disease management,Queen rearing,General hive management",8,4,3,6,5,7,2,1,"Winter,Spring",,,,,,,,,,,,
+5/28/20 6:38,Ireland,7,15+,I haven't used educational programmes,4,8,2,6,3,7,5,1,I don't supplement pollen,,,I don't supplement sugars/candy,,,2,9,7,8,7,0,9
+5/28/20 6:46,UK,35,15+,"Queen rearing,General hive management",4,7,6,3,5,2,8,1,Spring,2+ to 4,251-500g,"Autumn,Winter",,,,,,,,,
+5/28/20 7:44,UK,6,Between 3 and 5,"Disease management,Chemical treatments,General hive management",4,7,3,6,1,8,5,2,I don't supplement pollen,,,"Autumn,Winter",10+ to 12,501-1000g,,,,,,,
+5/28/20 8:55,UK,70,15+,"Disease management,Queen rearing,Other",2,7,6,4,5,1,3,8,I don't supplement pollen,,,"Autumn,Winter,Spring",12+,0-250g,7,4,6,4,3,3,15
+5/28/20 9:31,UK,2,15+,"Disease management,Chemical treatments,Queen rearing,General hive management",8,2,3,5,6,7,4,1,,,,,,,,,,,,,
+5/28/20 10:30,UK,2,Between 1 and 3,General hive management,7,8,1,3,6,5,4,2,Winter,4+ to 6,0-250g,Winter,6+ to 8,0-250g,,,,,,,
+5/28/20 12:02,UK,7,Between 10 and 15,"Disease management,General hive management",1,8,4,2,7,3,5,6,I don't supplement pollen,,,"Autumn,Winter",8+ to 10,0-250g,,,,,,,
+5/28/20 13:14,UK,4,Between 10 and 15,"Disease management,General hive management",1,5,4,6,7,8,3,2,I don't supplement pollen,,,"Autumn,Winter",8+ to 10,1500g+,5,3,2,3,1,0,
+6/29/20 8:52,UK,8,15+,"Disease management,Chemical treatments,Queen rearing,General hive management",3,5,4,1,7,6,8,2,I don't supplement pollen,,,"Autumn,Winter,Spring",10+ to 12,0-250g,2,9,3,2,2,0,15
+5/29/20 14:16,UK,10,Between 1 and 3,"Queen rearing,General hive management",5,4,6,2,1,8,7,3,Winter,4+ to 6,0-250g,"Autumn,Winter",12+,0-250g,5,7,2,3,2,0,
+5/30/20 7:30,UK,9,15+,"Disease management,Chemical treatments,Food supplementation,Queen rearing,General hive management",7,3,2,4,5,8,6,1,I don't supplement pollen,,,Autumn,,,,,,,,,
+5/30/20 8:34,USA,7,Between 3 and 5,"Disease management,Chemical treatments,Food supplementation,General hive management",3,4,5,6,2,7,8,1,I don't supplement pollen,,,"Autumn,Winter,Summer,Spring",,,,,,,,,
+6/7/20 9:23,UK,2,Between 1 and 3,"Making a business of beekeeping,General hive management,Other",1,6,8,2,3,5,7,4,I don't supplement pollen,,,"Autumn,Winter,Spring",8+ to 10,501-1000g,7,5,8,8,6,5,
+6/7/20 9:43,UK,12,Between 3 and 5,"Disease management,Chemical treatments,General hive management",1,7,8,3,2,4,6,5,I don't supplement pollen,,,Autumn,0 to 2,1500g+,3,5,8,3,1,0,
+6/8/20 9:31,UK,4,Between 3 and 5,"Disease management,Chemical treatments,Food supplementation,Queen rearing,General hive management",5,8,2,1,3,4,6,7,Winter,4+ to 6,0-250g,Spring,,,,,,,,,
+6/8/20 10:02,UK,6,Between 3 and 5,"Disease management,Queen rearing,General hive management,Other",4,6,7,2,1,3,8,5,Spring,2+ to 4,501-1000g,"Autumn,Summer",2+ to 4,251-500g,8,10,10,10,5,3,15
+7/9/20 9:09,UK,14,Between 1 and 3,"Disease management,Chemical treatments,Queen rearing,General hive management",8,6,7,3,1,4,5,2,I don't supplement pollen,,,Autumn,6+ to 8,251-500g,3,7,7,7,4,0,20
+7/10/20 7:44,UK,14,Between 3 and 5,"Disease management,Chemical treatments,Queen rearing,General hive management,Other",4,8,7,5,1,2,6,3,I don't supplement pollen,,,Autumn,2+ to 4,1500g+,3,7,3,7,3,2,3
+6/12/20 0:27,UK,40,15+,I haven't used educational programmes,4,5,6,2,1,3,7,8,I don't supplement pollen,,,I don't supplement sugars/candy,,,5,7,1,4,1,10,56
+6/14/20 8:55,UK,20,Between 5 and 10,I haven't used educational programmes,4,6,8,1,2,7,5,3,I don't supplement pollen,,,Spring,,,,,,,,,
+6/14/20 9:07,UK,7,Between 10 and 15,"Disease management,Chemical treatments,Making a business of beekeeping,Queen rearing,General hive management",5,7,6,1,3,2,4,8,Spring,,,,,,,,,,,,
+6/14/20 9:24,UK,2,Between 3 and 5,General hive management,6,7,8,2,1,4,5,3,I don't supplement pollen,,,Winter,,,,,,,,,
+6/14/20 22:50,UK,40,Between 5 and 10,"Disease management,Chemical treatments,Making a business of beekeeping,General hive management,Other",6,4,5,2,3,8,7,1,Spring,4+ to 6,0-250g,"Autumn,Winter,Summer,Spring",,,,,,,,,
+6/16/20 19:02,UK,2,Between 1 and 3,"I haven't used educational programmes,Queen rearing,General hive management",8,2,3,6,5,7,4,1,I don't supplement pollen,,,Winter,2+ to 4,1500g+,8,9,9,7,7,7,0
+6/16/20 19:30,USA,14,Between 5 and 10,"Disease management,Chemical treatments,Making a business of beekeeping,Food supplementation,Queen rearing,General hive management,Other",2,7,6,3,4,5,8,1,"Autumn,Spring,Summer",,,,,,,,,,,,
+6/19/20 8:09,USA,9,Between 3 and 5,"Disease management,Chemical treatments,Making a business of beekeeping,Queen rearing,General hive management,Other",4,7,6,2,1,3,8,5,Spring,,,Autumn,2+ to 4,0-250g,0,5,0,5,0,0,100
+6/20/20 5:32,UK,5,Between 1 and 3,General hive management,3,5,4,6,2,7,8,1,Spring,2+ to 4,0-250g,"Winter,Spring",,,,,,,,,
+6/23/20 13:23,Ireland,4,Between 10 and 15,General hive management,6,2,3,7,4,5,8,1,I don't supplement pollen,,,"Autumn,Summer,Spring",,,,,,,,,
